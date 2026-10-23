@@ -1,0 +1,13 @@
+# Hasil kompilasi
+*.class
+bin/
+build/
+dist/
+out/
+ 
+# NetBeans / IDE
+nbproject/private/
+.idea/
+*.iml
+.vscode/
+ 
